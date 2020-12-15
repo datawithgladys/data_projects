@@ -1,5 +1,4 @@
-# Project Credit Card Fraud Detection
-## (Ongoing)
+# Project Credit Card Fraud Detection (Ongoing)
 
 ### By Gladys Pao
 
