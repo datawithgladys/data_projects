@@ -19,7 +19,7 @@ With customer-centric marketing playing an important role in a business, we have
 
 Hence, the store's sales data will be analysed to provide insights into the customer base. On the basis of Recency, Frequency, and Monetary values, the customers of the giftware online store will also be segmented into various meaningful groups using the k-means clustering algorithm, allowing the store owner to better understand the store's target audience and hence be able to market to the customers more effectively in the future. 
 
-### Project 3: Supervised and Unsupervised Learning
+### Project 3: Anomaly Detection
 #### Credit Card Fraud Detection - Ongoing
 Data with over 284,000 credit card transactions from European cardholders was analysed to find insights on features differentiating between the fraudulent and non-fraudulent transactions. A Model was then trained to predict whether a transaction is fraudulent or not.
 
