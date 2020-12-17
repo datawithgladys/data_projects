@@ -3,7 +3,7 @@
 ### By Gladys Pao
 
 ## Project Information
-Data with over 284,000 credit card transactions from European cardholders was analysed to find insights on features differentiating between the fraudulent and non-fraudulent transactions. Supervised and supervised learning methods were then used to predict whether a transaction is fraudulent or not. Models would be evaluated and selected based on their ROC-AUC.
+Data with over 284,000 credit card transactions from European cardholders was analysed to find insights on features differentiating between the fraudulent and non-fraudulent transactions. Supervised learning methods were then used to predict whether a transaction is fraudulent or not. Models would be evaluated and selected based on their ROC-AUC.
 
 ### Citations
 Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015
