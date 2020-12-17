@@ -12,7 +12,6 @@ In this project, we will explore a dataset obtained from the research of Nguyen 
 Task 1's models would be evaluated and selected based on their RMSE, and task 2's models would be evaluated and selected based on their Accuracy and F1 scores.
     
 Research and data details <a href = 'https://www.mdpi.com/2306-5729/4/3/124/htm'>here</a>.
-Credits: Uplevel
 
 ### Contents
 1 - Part I Data Cleaning<br>
