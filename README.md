@@ -21,5 +21,5 @@ Hence, the store's sales data will be analysed to provide insights into the cust
 
 ### Project 3: Supervised and Unsupervised Learning
 #### Credit Card Fraud Detection - Ongoing
-Data with over 284,000 credit card transactions from European cardholders was analysed to find insights on features differentiating between the fraudulent and non-fraudulent transactions. Supervised and supervised learning methods were then used to predict whether a transaction is fraudulent or not.
+Data with over 284,000 credit card transactions from European cardholders was analysed to find insights on features differentiating between the fraudulent and non-fraudulent transactions. A Model was then trained to predict whether a transaction is fraudulent or not.
 
