@@ -9,7 +9,6 @@ With customer-centric marketing playing an important role in a business, we have
 Hence, the store's sales data will be analysed to provide insights into the customer base. On the basis of Recency, Frequency, and Monetary values, the customers of the giftware online store will also be segmented into various meaningful groups using the k-means clustering algorithm, allowing the store owner to better understand the store's target audience and hence be able to market to the customers more effectively in the future. 
 
 Source of dataset: <a href="https://archive.ics.uci.edu/ml/datasets/Online+Retail+II">UCI Machine Learning Repository</a>
-Credits: Uplevel
 
 ### Contents
 1 - Part I Data Cleaning<br>
